@@ -1,7 +1,6 @@
 +++
 title = "About"
 description = "About me"
-date = "2026-11-07"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "zero"
 +++
