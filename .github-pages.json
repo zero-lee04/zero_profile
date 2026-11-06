@@ -1,0 +1,13 @@
+{
+  "config": "hugo.toml,pages.json",
+  "theme": "template",
+  "sample": "exampleSite",
+  "version": "0.167.0",
+  "slug": "hugo-coder",
+  "npm": [],
+  "asset_build": [],
+  "generator": "3.1",
+  "repo": "https://github.com/zero-lee04/zero_profile.git",
+  "baseURL": "https://zero-lee04.github.io/zero_profile/",
+  "audited": true
+}
