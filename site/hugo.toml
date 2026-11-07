@@ -27,9 +27,9 @@ author = "Lee Gayoung"
 description = "zero's portfolio - software and game development"
 keywords = "developer, portfolio, software, game, Java, Python"
 info = ["Computer Science & Artificial Intelligence Student"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/me.jpg"
 #gravatar = "john.doe@example.com"
-dateFormat = "January 2, 2006"
+dateFormat = "July 29, 2004"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
